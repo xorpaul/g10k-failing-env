@@ -1,4 +1,4 @@
-mod 'puppetlabs/apt', '2.3.0'
-mod 'sensu',
-     :git => 'https://github.com/sensu/sensu-puppet.git',
-     :commit => '8fail'
+mod 'puppetlabs/ntp'
+mod 'stdlib',
+     :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git',
+     :commit => 'kadakldalsdj'
